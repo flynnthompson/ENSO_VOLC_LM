@@ -1,8 +1,11 @@
-# Project title
+# Honours Project (UniMelb)
 
-**Research area:**
+**Research area:** El Niño-Southern Oscillation Dynamical Response to Volcanic Forcing during the Last Millennium
 
-**Research questios:**
+**Research questions:**
+ - Does the ENSO phase at the time of a volcanic eruption influence the subsequent ENSO response?
+ - Does the eruption location influence the ENSO response?
+ - Does the eruption season influence the ENSO response?
 
 **Project Leads**
 * name, affiliation/github username
