@@ -8,3 +8,10 @@
 
 # This action will replace the current contents of this file with the list of packages currently installed 
 # in your environment.
+
+numpy
+pandas
+xarray
+cftime
+matplotlib
+scipy
